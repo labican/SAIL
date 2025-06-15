@@ -245,4 +245,6 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+src/TrackPeople/dataset/
+
 # End of https://www.toptal.com/developers/gitignore/api/python,c,c++
